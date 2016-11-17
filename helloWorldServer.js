@@ -1,3 +1,7 @@
+/* This is about the simplest possible example of an Http server written in node
+   This example can be found on the node.js 7.1.0 docs
+*/
+
 const http = require('http');
 
 const hostname = '127.0.0.1';
